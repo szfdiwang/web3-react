@@ -1,6 +1,7 @@
 {
-  "private": true,
-  "name": "web3-react",
+  "private": false,
+  "version": "0.0.1",
+  "name": "web3-react-alaya",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",

@@ -4,12 +4,12 @@
     "access": "public"
   },
   "version": "6.0.7",
-  "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+  "description": "A simple, maximally extensible, dependency minimized framework for building modern Alaya dApps",
   "keywords": [
     "react",
     "react-hooks",
     "hooks",
-    "ethereum",
+    "alaya",
     "javascript",
     "typescript",
     "web3",
